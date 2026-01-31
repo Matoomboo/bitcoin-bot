@@ -1,5 +1,4 @@
-python-telegram-bot==20.9
-requests
-pandas
-pandas-ta
-mplfinance
+python-telegram-bot==21.11
+requests==2.31.0
+sqlite3
+logging
