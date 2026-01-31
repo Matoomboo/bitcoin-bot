@@ -7,8 +7,8 @@ from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 # === Настройки ===
-TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
-OWNER_ID = int(os.getenv("OWNER_ID"))
+TELEGRAM_TOKEN = os.getenv("8061192194:AAFFITjMRDI5OrG1kFfgpBuuILPA9LaTVV4")
+OWNER_ID = int(os.getenv("1105721893"))
 
 # === Меню с кнопками ===
 keyboard = [
