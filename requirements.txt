@@ -1,4 +1,2 @@
 python-telegram-bot==21.11
 requests==2.31.0
-sqlite3
-logging
